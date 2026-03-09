@@ -100,10 +100,10 @@ Currently in my **4th year, final semester**, I am actively looking for full-tim
 
 | Platform | Link |
 |---|---|
-| 🐙 GitHub | [@ritikraj011](https://github.com/ritikraj011) |
-| 💼 LinkedIn | [@Linkedin](https://www.linkedin.com/in/ritik-raj-5ab67937b) |
-| 📧 Email | [@Gmail](ritikrajgaya033@gmail.com) |
-| 🌐 Portfolio | *Add your portfolio URL here* |
+| 🐙 GitHub | [Github](https://github.com/ritikraj011) |
+| 💼 LinkedIn | [Linkedin](https://www.linkedin.com/in/ritik-raj-5ab67937b) |
+| 📧 Email | [Gmail](ritikrajgaya033@gmail.com) |
+| 🌐 Portfolio | [Portfolio](ritikraj.live) |
 
 ---
 
