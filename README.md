@@ -24,7 +24,7 @@ Currently in my **4th year, final semester**, I am actively looking for full-tim
 | 🔧 Backend Development | Backend Engineer (Node.js, Python, C++) |
 | 🎨 Frontend Development | Frontend Engineer (React, HTML/CSS/JS) |
 | 🌐 Full-Stack Development | Full-Stack Developer |
-| 📊 Data Science | Data Scientist / ML Engineer |
+| 📊 Data Science | Data Sciene/ Data Analyst |
 
 ---
 
@@ -86,13 +86,6 @@ Currently in my **4th year, final semester**, I am actively looking for full-tim
 | Degree | Institution | Year |
 |---|---|---|
 | B.Tech (Undergraduate) | IIT (BHU) Varanasi | 2022 – 2026 |
-
----
-
-## 📈 GitHub Activity
-
-![Ritik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritikraj011&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikraj011&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
