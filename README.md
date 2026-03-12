@@ -21,9 +21,6 @@ Currently in my **4th year, final semester**, I am actively looking for full-tim
 | Domain | Role |
 |---|---|
 | 💻 Computer Science | Software Engineer / SDE |
-| 🔧 Backend Development | Backend Engineer (Node.js, Python, C++) |
-| 🎨 Frontend Development | Frontend Engineer (React, HTML/CSS/JS) |
-| 🌐 Full-Stack Development | Full-Stack Developer |
 | 📊 Data Science | Data Sciene/ Data Analyst |
 
 ---
